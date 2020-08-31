@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{lw7f:function(t,e,n){"use strict";var u=n("kCqC");e.__esModule=!0,e.default=void 0;var o=u(n("ty2q")),r=u(n("v+8Q")),a=function(t){function e(){return t.apply(this,arguments)||this}return(0,o.default)(e,t),e.prototype.render=function(){return r.default.createElement(r.default.Fragment,null)},e}(r.default.Component);e.default=a}}]);
+//# sourceMappingURL=component---cache-caches-gatsby-plugin-offline-app-shell-js-2f85e6949604e42329ef.js.map
