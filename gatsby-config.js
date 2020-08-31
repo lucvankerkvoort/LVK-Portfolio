@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/LVK-Portfolio',
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
