@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://lucvankerkvoort.github.io/LVK-Portfolio/',
+    repo: 'https://github.com/lucvankerkvoort/LVK-Portfolio',
   },
   () => {
     console.log('Deploy Complete!');
